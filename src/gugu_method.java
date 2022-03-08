@@ -16,18 +16,18 @@ public class gugu_method {
 			System.out.println(result[i]);
 		}
 	}
-	
-	public static void main(String[] args) {
-//		Scanner s = new Scanner(System.in);
-//		int n = s.nextInt();
-		System.out.println("구구단을 출력합니다");
-		for(int i=2; i<10; i++)
-		{
-			int result[] = cal(i);
-			System.out.println("\n" + i + "단을 출력합니다  .");	
-			print(result);
-		}
-
-	}
-	
 }
+//	public static void main(String[] args) {
+////		Scanner s = new Scanner(System.in);
+////		int n = s.nextInt();
+//		System.out.println("구구단을 출력합니다");
+//		for(int i=2; i<10; i++)
+//		{
+//			int result[] = cal(i);
+//			System.out.println("\n" + i + "단을 출력합니다  .");	
+//			print(result);
+//		}
+//
+//	}
+//	
+//}
